@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a lecturer in Medical Imaging at Cardiff University - and you can read more about the research that I'm involved in on [my University webpage](https://www.cardiff.ac.uk/people/view/507850-gallichan-daniel).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+ENGINmakers has started in 2022 as a project to support the Civic Mission of Cardiff University, and initially received funding to engage two students to create two 'activities' that support teachers and primary/seconday pupils in their learning of coding concepts, and the relevance of coding to applications such as those found in Engineering.
