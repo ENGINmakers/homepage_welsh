@@ -1,3 +1,7 @@
 main:
+  - title: "For Teachers"
+    url: /forteachers/
+  - title: "For Students"
+    url: /forugs/
   - title: "About"
     url: /about/

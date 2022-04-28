@@ -36,7 +36,7 @@ Engineering is fundamentally about using technical skills (science, maths, compu
 
 The ENGINmakers project brings students and academics from the School of Engineering together with teachers from local primary and secondary schools to develop and deliver activities for schoolchildren. We aim to capture the interest of the children by designing activities that encourage them to be **‘makers’**, to design and build solutions to a problem using easily accessible materials. 
 
-For this pilot initiative in 2022, the projects will be based around the BBC micro:bit platform, a small low-cost programmable circuitboard that is already widely used in schools across the UK. Working with collaborators in the School of Computer Science and Informatics, this project aims to create a pathway for bridging the gap between research within the School of Engineering and primary and secondary education in the local area, with aspirations to reach much further where possible.
+For this pilot initiative in 2022, the projects will be based around the [BBC micro:bit](https://github.com/dgallichan/microbit-basics/wiki) platform, a small low-cost programmable circuitboard that is already widely used in schools across the UK. Working with collaborators in the School of Computer Science and Informatics, this project aims to create a pathway for bridging the gap between research within the School of Engineering and primary and secondary education in the local area, with aspirations to reach much further where possible.
 
 
 
