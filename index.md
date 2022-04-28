@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "undergraduate students working on the co-creation of activities to inspire primary and secondary age pupils to develop coding skills to solve problems using Engineering principles"
 feature_row:
-  - image_path: assets/images/microbit.webp
+  - image_path: assets/images/microbit.png
     title: "The BBC micro:bit"
     excerpt: "The micro:bit is a small, low-cost, highly programmably circuitboard."
     url: "https://github.com/dgallichan/microbit-basics/wiki"
@@ -19,13 +19,13 @@ feature_row:
   - image_path: /assets/images/national-cancer-institute-N_aihp118p8-unsplash.jpg
     title: "For Teachers"
     excerpt: "*This content is still a work-in-progress - please check back soon!*."
-    url: "#forteachers"
+    url: "/forteachers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/brooke-cagle--uHVRvDr7pg-unsplash.jpg
     title: "For UG students"
     excerpt: "If you're a Cardiff University undergraduate, you can find more information about how to get involved as an ENGINmaker here."
-    url: "#forugs"
+    url: "/forugs/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
