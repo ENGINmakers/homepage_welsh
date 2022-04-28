@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/robin-glauser-zP7X_B86xOg-unsplash.jpg  
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Building a brighter future together"
+excerpt: "ENGINmakers is a project where Cardiff University undergraduate students can work together on the creation of activities to inspire primary and secondary age pupils to develop coding skills to solve problems using Engineering principles"
 intro: 
-  - excerpt: 'ENGINmakers is a project where Cardiff University undergraduate students can work together on the creation of activities to inspire primary and secondary age pupils to develop coding skills to solve problems using Engineering principles'
+  - excerpt: 'Building a brighter future together'
 ---
 
 {% include feature_row id="intro" type="center" %}
