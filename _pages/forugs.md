@@ -3,7 +3,7 @@ permalink: /forugs/
 title: "For undergraduate students"
 ---
 
-In it's initial phase during 2022, ENGINmakers has funding to employ two undergraduate students, working under the supervision of [Dr. Daniel Gallichan](https://www.cardiff.ac.uk/people/view/507850-gallichan-daniel), to each spend up to 50 hours over the period of June to September 2022 working on the development of two engineering-focused activities for use with school visits and public engagement. 
+In its initial phase during 2022, ENGINmakers has funding to employ two undergraduate students, working under the supervision of [Dr. Daniel Gallichan](https://www.cardiff.ac.uk/people/view/507850-gallichan-daniel), to each spend up to 100 hours over the period of June to September 2022 working on the development of two engineering-focused activities for use with school visits and public engagement. 
 
 The planned timeline is to have two visits to a local school ([Willows High School](https://www.willowshigh.co.uk/)), the first in July and the second in September. This will allow a first activity to be tested in July, with feedback acted upon in the development of the second activity in September. In collaboration with [Mr Speight Consultancy](https://www.mrspeightconsultancy.com/) these activities will also be converted into 'teacher packs' to allow schoolteachers to conduct versions of these activities independently, supporting their deliver of the Curriculum for Wales.
 
