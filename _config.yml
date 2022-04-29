@@ -75,6 +75,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
 
+search: false
+
 # Site Footer
 footer:
   links:
