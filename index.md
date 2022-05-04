@@ -10,7 +10,6 @@ header:
   actions:
     - label: "Get involved!"
     url: "/forugs/"
-    btn_class: "btn--primary"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Undergraduate students working on the **co-creation** of activities **to inspire** primary and secondary age pupils to **develop coding skills** to solve problems using **Engineering principles**"
 feature_row:
