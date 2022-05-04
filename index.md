@@ -7,11 +7,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/robin-glauser-zP7X_B86xOg-unsplash.jpg  
+  actions:
+    - label: "Get involved!"
+    url: "/forugs/"
+    btn_class: "btn--primary"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Undergraduate students working on the **co-creation** of activities **to inspire** primary and secondary age pupils to **develop coding skills** to solve problems using **Engineering principles**"
-url: "/forugs/"
-btn_label: "Get involved!"
-btn_class: "btn--primary"
 feature_row:
   - image_path: assets/images/microbit.png
     title: "The BBC micro:bit"
