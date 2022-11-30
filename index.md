@@ -32,6 +32,8 @@ feature_row:
 
 {% include feature_row %}
 
+![/assets/images/ENGINmakers_logo2_thumb.png](ENGINmakers Logo)
+
 Engineering is fundamentally about using technical skills (science, maths, computing and more) to design solutions to problems. As a society, two hugely important challenges we face are the **climate crisis** and our **global health**, and we need as many of the next generation as possible to be equipped with the appropriate skills to be able to help engineer solutions to these problems. 
 
 The ENGINmakers project brings students and academics from the School of Engineering together with teachers from local primary and secondary schools to develop and deliver activities for schoolchildren. We aim to capture the interest of the children by designing activities that encourage them to be **‘makers’**, to design and build solutions to a problem using easily accessible materials. 
