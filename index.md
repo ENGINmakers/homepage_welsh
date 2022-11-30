@@ -1,5 +1,5 @@
 ---
-title: "<img src="/assets/images/ENGINmakers_logo2_thumb.png" alt="logo" width="200"/>"
+title: ""
 layout: splash
 permalink: /
 date: 2022-04-28
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/robin-glauser-zP7X_B86xOg-unsplash.jpg  
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Undergraduate students working on the **co-creation** of activities **to inspire** primary and secondary age pupils to **develop coding skills** to solve problems using **Engineering principles**"
+excerpt: "<img src="/assets/images/ENGINmakers_logo2_thumb.png" alt="logo" width="200"/><br />Undergraduate students working on the **co-creation** of activities **to inspire** primary and secondary age pupils to **develop coding skills** to solve problems using **Engineering principles**"
 feature_row:
   - image_path: assets/images/microbit.png
     title: "The BBC micro:bit"
