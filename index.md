@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/national-cancer-institute-N_aihp118p8-unsplash.jpg
     title: "For Teachers"
-    excerpt: "*This content is still a work-in-progress - please check back soon!*."
+    excerpt: "You can download our Teacher Packs here to get inspired for your classroom"
     url: "/forteachers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
