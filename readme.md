@@ -15,6 +15,10 @@ Links for the code for the activities at the Museum after Dark
 
 [Servo demo](https://makecode.microbit.org/_EA6LgKh27Mkd)
 
+[Badge receiver](https://makecode.microbit.org/_dcVLJtgAairs)
+
+[Badge transmitter](https://makecode.microbit.org/_JfweMV1meY41)
+
 [http://bit.ly/microtransmit](http://bit.ly/microtransmit)
 
 [http://bit.ly/microreceive](http://bit.ly/microreceive)
