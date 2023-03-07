@@ -3,28 +3,28 @@ permalink: /forteachers/
 title: "For Teachers"
 ---
 
-You can download the full 'delivery packs' for the two activities we created here, and we'd love to hear from you if you try any of these ideas out during your classes!
+Gallwch lawrlwytho'r 'pecynnau dosbarthu' llawn ar gyfer y ddau weithgaredd a grëwyd gennym yma, a byddem wrth ein bodd yn clywed gennych os rhowch gynnig ar unrhyw un o'r syniadau hyn yn ystod eich dosbarthiadau!
 
-### Pack 1
+### Pecyn 1
 
-The activity in this pack involves exploring use of the micro:bit accelerometer to use as a 'step-counter'. Data are streamed from a remote micro:bit (in the pupil's pocket) to the connected micro:bit - allowing real-time view of the data as the steps are taken.
+Mae'r gweithgaredd yn y pecyn hwn yn cynnwys archwilio'r defnydd o'r cyflymder micro:bit i'w ddefnyddio fel 'cyfrifydd cam'. Mae data'n cael eu ffrydio o firco:bit o bell (ym mhoced y disgybl) i'r micro:bit cysylltiedig - gan ganiatáu golwg amser real o'r data wrth i'r camau gael eu cymryd.
 
 ![Pack 1 image](../assets/images/image_pack1.png)
 
-[Download Pack 1 here in English](../teacherpacks/ENGINmakers_TeacherPack1_English.zip)
+[Lawrlwytho pecyn 1 yma yn Saesneg](../teacherpacks/ENGINmakers_TeacherPack1_English.zip)
 
 ![Pack 1 image in welsh](../assets/images/image_pack1_welsh.png)
 
-[Download Pack 1 here in Welsh](../teacherpacks/ENGINmakers_TeacherPack1_Welsh.zip)
+[Lawrlwytho pecyn 1 yma yng Nghymraeg](../teacherpacks/ENGINmakers_TeacherPack1_Welsh.zip)
 
 ### Pack 2
 
-The activity in this pack involves using the 'pitch' and 'roll' variables derived from the micro:bit accelerometer to create an analog remote controller for a robot buggy. This does also requires having access to a robot buggy (it can be of almost any kind that is micro:bit compatible - code would need adaption to robots other than the Robo:bit Mk1, but please just contact [gallichand@cardiff.ac.uk](mailto:gallichand@cardiff.ac.uk).
+Mae'r gweithgaredd yn y pecyn hwn yn cynnwys defnyddio'r newidynnau 'traw' a 'rholio' sy'n deilio o'r cyflymromedr micro:bit i greu rheolydd o bell analog ar gyfer robot bygi. Mae hyn hefyd yn gofyn am fynediad i robot bygi (gall fod o bron unrhyw fath sy'n gydnaws a micro:bit - byddai angen addasu'r code i robotiaid heblaw am y Robo:bit Mk1, ond cysylltwch â [gallichand@caerdydd.ac. uk](mailto:gallichand@caerdydd.ac.uk).
 
 ![Pack 2 image](../assets/images/image_pack2.png)
 
-[Download Pack 2 here in English](../teacherpacks/ENGINmakers_TeacherPack2_English.zip)
+[Lawrlwytho pecyn 2 yma yn Saesneg](../teacherpacks/ENGINmakers_TeacherPack2_English.zip)
 
-[Download Pack 2 here in Welsh](../teacherpacks/ENGINmakers_TeacherPack2_Welsh.zip)
+[Lawrlwytho pecyn 2 yma yng Nghymraeg](../teacherpacks/ENGINmakers_TeacherPack2_Welsh.zip)
 
 
