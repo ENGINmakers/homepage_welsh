@@ -8,23 +8,23 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/robin-glauser-zP7X_B86xOg-unsplash.jpg  
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Undergraduate students working on the **co-creation** of activities **to inspire** primary and secondary age pupils to **develop coding skills** to solve problems using **Engineering principles**"
+excerpt: "Myrfyrwyr israddedig yn gweithio ar **gyd-greu** o weithgareddau **i ysbrydoli** disgyblion oed cynradd ac uwchradd i **ddatblygu sgiliau codio** i ddatrys problemau gan ddefnyddio **Egwyddorion Peirianneg**"
 feature_row:
   - image_path: assets/images/microbit.png
-    title: "The BBC micro:bit"
-    excerpt: "The micro:bit is a small, low-cost, highly programmably circuitboard."
+    title: "Y micro:bit y BBC"
+    excerpt: "Mae'r micro:bit yn fwrdd cylchedd bach, cost isel, sy'n rhaglenadwy iawn."
     url: "https://github.com/dgallichan/microbit-basics/wiki"
-    btn_label: "Read more about the micro:bit"
+    btn_label: "Darllenwch mwy am y micro:bit"
     btn_class: "btn--primary"
   - image_path: /assets/images/national-cancer-institute-N_aihp118p8-unsplash.jpg
-    title: "For Teachers"
-    excerpt: "You can download our Teacher Packs here to get inspired for your classroom"
+    title: "Ar gyfer Athrawon"
+    excerpt: "Gallwch lawrlwytho ein Pecynnau Athrawon lle gallwch gael eich ysbrydoli ar gyfer eich ystafell ddosbarth"
     url: "/forteachers/"
-    btn_label: "Read More"
+    btn_label: "Ewch i lawrlwythiadau"
     btn_class: "btn--primary"
   - image_path: /assets/images/brooke-cagle--uHVRvDr7pg-unsplash.jpg
-    title: "For UG students"
-    excerpt: "If you're a Cardiff University undergraduate, you can find more information about how to get involved as an ENGINmaker here."
+    title: "Ar gyfer myfyrwyr israddedig"
+    excerpt: "Os ydych chi'n fyrfyriwr israddedig ym Mhrifysgol Caerdydd, gallwch ddod o hyd i ragor o wybodaeth am sut i gymryd rhan fel ENGINmaker yma."
     url: "/forugs/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -32,11 +32,11 @@ feature_row:
 
 {% include feature_row %}
 
-Engineering is fundamentally about using technical skills (science, maths, computing and more) to design solutions to problems. As a society, two hugely important challenges we face are the **climate crisis** and our **global health**, and we need as many of the next generation as possible to be equipped with the appropriate skills to be able to help engineer solutions to these problems. 
+Yn sylfaenol, mae peirianneg yn ymwneud a defnyddio sgiliau technegol (gwyddoniaeth, mathemateg, cyrfiriafura a mwy) i ddylunio atebion i broblemau. Fel cymdeithas, dwy her hynod bwysig sy'n hwynebu yw'r **argyfwng hinsawdd** a'n **hiechyd byd-eang**, ac mae angen i gymaint o'r genhedlaeth nesaf a phosibl feddu ar y sgiliau priodol i allu helpu ateb y problemau hyn gyda peiriannydd.
 
-The ENGINmakers project brings students and academics from the School of Engineering together with teachers from local primary and secondary schools to develop and deliver activities for schoolchildren. We aim to capture the interest of the children by designing activities that encourage them to be **‘makers’**, to design and build solutions to a problem using easily accessible materials. 
+Mae prosiect ENGINmakers yn ddod o myfyrwyr ac academyddion o'r Ysgol Beirianneg ynghyd ag athrawon o ysgolion cynradd ac uwchradd lleol i ddatblygu a chyflwyno gweithgareddau i blant ysgol. Anelwn ennyn diddordeb y plant trwy ddylunio gweithgareddau sy'n eu hannog i fod yn **'wneuthurwyr'**, i ddylunio ac adeiladu datrysiadau i broblem gan ddefnyddio deunyddiau hygyrch.
 
-For the pilot initiative in 2022, the projects were based around the [BBC micro:bit](https://github.com/dgallichan/microbit-basics/wiki) platform, a small low-cost programmable circuitboard that is already widely used in schools across the UK. Working with collaborators in the School of Computer Science and Informatics, this project aims to create a pathway for bridging the gap between research within the School of Engineering and primary and secondary education in the local area, with aspirations to reach much further where possible.
+Ar gyfer y fenter beilot yn 2022, roedd y prosiectau'n seiliedig ar y platform [BBC micro:bit]( https://github.com/dgallichan/microbit-basics/wiki), bwrdd cylchedd rhaglenadwy bach cost isel sydd eisoes yn cael ei ddefnyddio'n helaeth mewn ysgolion ledled y DU. Gan weithio gyda chydweithwyr yn yr Ysgol Cyfrifiadureg a Gwybodeg, nod y prosiect hwn yn creu llwybr ar gyfer pontio'r bwlch rhwng ymchwil yn yr Ysgol Beirianneg ac addysg gynradd ac uwchradd yn yr ardal leol, gyda'r dyheadau i gyrraedd llawer pellach lle bo modd.
 
 
 
