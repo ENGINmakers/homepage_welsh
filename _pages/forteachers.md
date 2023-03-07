@@ -1,6 +1,6 @@
 ---
 permalink: /forteachers/
-title: "For Teachers"
+title: "Ar gyfer Athrawon"
 ---
 
 Gallwch lawrlwytho'r 'pecynnau dosbarthu' llawn ar gyfer y ddau weithgaredd a grëwyd gennym yma, a byddem wrth ein bodd yn clywed gennych os rhowch gynnig ar unrhyw un o'r syniadau hyn yn ystod eich dosbarthiadau!
