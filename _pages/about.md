@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Am"
 ---
 
 Rwy'n ddarlithydd Delweddu Meddygol ym Mhrifysgol Caerdydd - a gallwch ddarllen mwy am yr ymchwil yr wyf yn ymwneud ag ef ar [tudalen we fy Mhrifysgol]( https://www.caerdydd.ac.uk/people/view/507850-gallichan-daniel).
