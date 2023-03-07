@@ -26,7 +26,7 @@ feature_row:
     title: "Ar gyfer myfyrwyr israddedig"
     excerpt: "Os ydych chi'n fyrfyriwr israddedig ym Mhrifysgol Caerdydd, gallwch ddod o hyd i ragor o wybodaeth am sut i gymryd rhan fel ENGINmaker yma."
     url: "/forugs/"
-    btn_label: "Read More"
+    btn_label: "Darllen mwy"
     btn_class: "btn--primary"
 ---
 
