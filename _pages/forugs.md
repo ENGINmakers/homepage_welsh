@@ -1,12 +1,12 @@
 ---
 permalink: /forugs/
-title: "For undergraduate students"
+title: "Ar gyfer myfyrwyr israddedig"
 ---
 
-In its initial phase during 2022, ENGINmakers had funding to employ two undergraduate students, working under the supervision of [Dr. Daniel Gallichan](https://www.cardiff.ac.uk/people/view/507850-gallichan-daniel), to each spend up to ~100 hours over the period of June to September 2022 working on the development of two engineering-focused activities for use with school visits and public engagement. 
+Yn ei gyfnod cychwynnol yn ystod 2022, roedd gan ENGINmakers gyllid i gyflogi day fyrfyriwr israddedig, yn gweithio o dan oruchwyliaeth [Dr. Daniel Gallichan]( https://www.caerdydd.ac.uk/people/view/507850-gallichan-daniel), i dreulio hyd at ~100 awr dros y cyfnod rhwng Mehefin a Medi 2022 yn gweithio ar ddatblygu dau beirianneg - gweithgareddau a ffocws i'w defnyddio gydag ymweliadau ysgol ac ymgysylltu a'r cyhoedd.
 
-We had two visits to local schools, the first in July and the second in November, and developed two separate activities to conduct during those visits. In collaboration with [Mr Speight Consultancy](https://www.mrspeightconsultancy.com/) these activities have been converted into 'teacher packs' to allow schoolteachers to conduct versions of these activities independently, supporting their deliver of the Curriculum for Wales.
+Cawsom ddau ymweliad ag ysgolion lleol, y cyntaf ym mis Gorffennaf a'r ail ym mis Tachwedd, a datblygwyd dau weithgaredd ar wahan i'w cynnal yn ystod yr ymweliadau hynny. Mewn cydweithrediad a [Mr Speight Consultancy](https://www.mrspeightconsultancy.com/) mae'r gweithgareddau hyn wedi'u trosi'n 'becynnau athrawon' i alluogi athrawon ysgol i gynnal fersiynau o'r gweithgareddau hyn un annibynnol, gan gefnogi eu darpariaeth o'r Cwricwlwm i Gymru.
 
-This pilot project also had support from [The micro:bit Foundation](https://microbit.org/about/) to provide consultation on optimising our use of the features of the micro:bit, as well as support from [MathWorks](https://uk.mathworks.com/) who collaborated with ensuring that MATLAB is also able to interface smoothly with the micro:bit in the development of these activities.
+Cafodd y prosiect peilot hwn hefyd gefnogaeth gan [The micro:bit Foundation](https://microbit.org/about/) i ddarparu ymgynghoriad ar optimeiddio ein defnydd o nodweddion y micro:bit, yn ogystal a chefnogaeth gan [MathWorks] ( https://uk.mathworks.com/ ) a gydweithiodd a sicrhau bod MATLAB hefyd yn gallu rhyngwynebu'n esmwyth a'r micro:bit wrth ddatblygu'r gweithgareddau hyn.
 
-Feel free to [contact me via email](mailto:gallichand@cardiff.ac.uk) if you have any questions or would like to get involved in the future is such activities.
+Mae croeso i chi [cysylltwch a mi trwy e-bost] (mailto:gallichand@caerdydd.ac.uk) os oes genych unrhyw gwestiynau neu os hoffech gymryd rhan yn y dyfodol yn weithgareddau o'r fath.
