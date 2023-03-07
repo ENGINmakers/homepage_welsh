@@ -25,5 +25,6 @@ The activity in this pack involves using the 'pitch' and 'roll' variables derive
 
 [Download Pack 2 here in English](../teacherpacks/ENGINmakers_TeacherPack2_English.zip)
 
-_Pack 2 in Welsh still in progress...!_
+[Download Pack 2 here in Welsh](../teacherpacks/ENGINmakers_TeacherPack2_Welsh.zip)
+
 
