@@ -1,7 +1,7 @@
 main:
-  - title: "For Teachers"
+  - title: "Ar gyfer Athrawon"
     url: /forteachers/
-  - title: "For Students"
+  - title: "Ar gyfer myfyrwyr israddedig"
     url: /forugs/
-  - title: "About"
+  - title: "Am"
     url: /about/
